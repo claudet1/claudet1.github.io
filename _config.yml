@@ -1,20 +1,20 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
+title: claudet1
+url: "http://claudet1.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+   this is my website
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: nyinawumuntuc24@gmail.com
+author: Claudette NYINAWUMUNTU
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: I am Claudette. I like python.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
+  Email: " nyinawumuntuc24@gmail.com
   GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
