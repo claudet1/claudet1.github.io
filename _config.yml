@@ -14,7 +14,7 @@ profile: I am Claudette. I like python.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: " claudette.nyinawumuntu@aims.ac.rw"
+  Email: claudette.nyinawumuntu@aims.ac.rw
   GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
